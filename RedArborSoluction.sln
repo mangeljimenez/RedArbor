@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArborWEBAPI", "RedArborWEBAPI\RedArborWEBAPI.csproj", "{FB234188-6768-4D95-95D9-6786F804AA9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedArborWEBAPI", "RedArborWEBAPI\RedArborWEBAPI.csproj", "{FB234188-6768-4D95-95D9-6786F804AA9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArborDataAccessLayer", "RedArborDataAccessLayer\RedArborDataAccessLayer.csproj", "{265C0412-88D3-462F-85FA-921D395B0180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedArborDataAccessLayer", "RedArborDataAccessLayer\RedArborDataAccessLayer.csproj", "{265C0412-88D3-462F-85FA-921D395B0180}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
